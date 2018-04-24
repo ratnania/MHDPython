@@ -12,9 +12,9 @@ Chapter 1
 
 **Contents**
 
-1. Linear Convection_.
+1. `1-D Linear Convection`_.
 
-.. _Convection: http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection_fd.ipynb
+.. _1-D Linear Convection: http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection_fd.ipynb
 
 2. Diffusion equation
 
