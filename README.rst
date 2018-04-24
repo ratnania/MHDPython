@@ -14,25 +14,25 @@ Chapter 1
 
 1. 1-D Linear Convection
 
-`Finite Differences`_
+`1-D Linear Convection (fd)`_
 
-.. _Finite Differences: http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection_fd.ipynb
+.. _1-D Linear Convection (fd): http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection_fd.ipynb
 
 2. 1-D Diffusion equation
 
-`Finite Differences`_
+`1-D Diffusion equation (fd)`_
 
-.. _Finite Differences: http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion_fd.ipynb
+.. _1-D Diffusion equation (fd): http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion_fd.ipynb
 
 3. 1-D Non-linear Convection
 
-`Finite Differences`_
+`1-D Non-linear Convection (fd)`_
 
-.. _Finite Differences: http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/03_nonlinear_convection_fd.ipynb
+.. _1-D Non-linear Convection (fd): http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/03_nonlinear_convection_fd.ipynb
 
 4. 1-D Burgers equation
 
-`Finite Differences`_
+`1-D Burgers equation (fd)`_
 
-.. _Finite Differences: http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers_fd.ipynb
+.. _1-D Burgers equation (fd): http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers_fd.ipynb
 
