@@ -7,10 +7,11 @@ It is presented in different parts or *chapters*. When possible, both a *Finite 
 
 For the *Finite Element* notebooks, we will use the **Isogeometric Analysis** approach.
 
-Chapter 1
+Chapter 0
 *********
 
-**Contents**
+Chapter 1
+*********
 
 1. 1-D Linear Convection
 
@@ -28,3 +29,52 @@ Chapter 1
 
   * Using `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers_fd.ipynb>`_
 
+
+5. 2-D Linear Convection
+
+6. 2-D Diffusion equation
+
+7. 2-D Burgers equation
+
+Chapter 2
+*********
+
+1. 1-D Poisson
+
+2. 2-D Poisson
+
+3. 2-D Non linear elliptic equation
+
+4. 2-D MHD Equilibrium
+
+5. 2-D Biharmonic equation
+
+Chapter 3
+*********
+
+1. 2-D Cavity Flow with Navier-Stokes
+
+2. 2-D CHannel Flow with Navier-Stokes
+
+Chapter 4
+*********
+
+1. 1-D Maxwell Time Domain
+
+2. 2-D Stokes problem
+
+3. 2-D Maxwell Time Domain
+
+4. 2-D Maxwell Harmonic Domain
+
+
+Contributing
+************
+
+Dependencies
+^^^^^^^^^^^^
+
+Using bibtex in Markdown
+________________________
+
+The following `link <https://gist.github.com/maxogden/97190db73ac19fc6c1d9beee1a6e4fc8>`_ explains how to do it.
