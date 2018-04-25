@@ -10,24 +10,28 @@ For the *Finite Element* notebooks, we will use the **Isogeometric Analysis** ap
 Chapter 0
 *********
 
+1. `Introduction to Finite Elements <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter0/introduction_bsplines.ipynb>`_
+
+2. `Introduction to B-Splines <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter0/introduction_fem.ipynb>`_
+
 Chapter 1
 *********
 
 1. 1-D Linear Convection
 
-  * Using `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection_fd.ipynb>`_
+  - `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection_fd.ipynb>`_
 
 2. 1-D Diffusion equation
 
-  * Using `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion_fd.ipynb>`_
+  - `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion_fd.ipynb>`_
 
 3. 1-D Non-linear Convection
 
-  * Using `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/03_nonlinear_convection_fd.ipynb>`_
+  - `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/03_nonlinear_convection_fd.ipynb>`_
 
 4. 1-D Burgers equation
 
-  * Using `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers_fd.ipynb>`_
+  - `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers_fd.ipynb>`_
 
 
 5. 2-D Linear Convection
@@ -39,15 +43,11 @@ Chapter 1
 Chapter 2
 *********
 
-1. 1-D Poisson
+1. 2-D Non linear elliptic equation
 
-2. 2-D Poisson
+2. 2-D MHD Equilibrium
 
-3. 2-D Non linear elliptic equation
-
-4. 2-D MHD Equilibrium
-
-5. 2-D Biharmonic equation
+3. 2-D Biharmonic equation
 
 Chapter 3
 *********
@@ -67,6 +67,11 @@ Chapter 4
 
 4. 2-D Maxwell Harmonic Domain
 
+Chapter 5
+*********
+
+1. Exterior Calculus
+
 
 Contributing
 ************
@@ -74,7 +79,3 @@ Contributing
 Dependencies
 ^^^^^^^^^^^^
 
-Using bibtex in Markdown
-________________________
-
-The following `link <https://gist.github.com/maxogden/97190db73ac19fc6c1d9beee1a6e4fc8>`_ explains how to do it.
