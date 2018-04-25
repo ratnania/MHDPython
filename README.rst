@@ -14,6 +14,8 @@ Chapter 0
 
 2. `Introduction to B-Splines <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter0/introduction_bsplines.ipynb>`_
 
+3. `Introduction to B-Splines <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter0/poisson.ipynb>`_
+
 Chapter 1
 *********
 
