@@ -40,10 +40,18 @@ II- Non linear problems
 
 4. Burgers equation (2D)
 
-III- MHD equilibria
-*******************
+5. Monge-Ampère (2D)
 
-1. Soloviev solutions (2D)
+III- Boundary conditions in IGA
+*******************************
+
+1. Homogeneous Dirichlet
+
+2. Non-homogeneous Dirichlet
+
+3. Neumann
+
+4. Nitsche method
 
 IV- Navier-Stokes
 *****************
@@ -52,8 +60,13 @@ IV- Navier-Stokes
 
 2. Channel Flow with Navier-Stokes (2D)
 
-V- Compatible Finite Elements
-*****************************
+V- MHD equilibria
+*****************
+
+1. Soloviev solutions (2D)
+
+VI- Compatible Finite Elements
+******************************
 
 1. Maxwell Time Domain (1D)
 
