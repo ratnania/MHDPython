@@ -21,47 +21,47 @@ Introduction
 I- Linear problems
 ******************
 
-1. `1-D Linear Convection <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection.ipynb>`_
+1. `Linear Convection (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection.ipynb>`_
 
-2. `1-D Diffusion equation <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion.ipynb>`_
+2. `Diffusion equation (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion.ipynb>`_
 
-3. 2-D Linear Convection
+3. Linear Convection (2D)
 
-4. 2-D Diffusion equation
+4. Diffusion equation (2D)
 
 II- Non linear problems
 ***********************
 
-1. 2-D Non linear elliptic equation
+1. Non linear elliptic equation (2D)
 
-2. `1-D Non-linear Convection <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/03_nonlinear_convection.ipynb>`_
+2. `Non-linear Convection (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/03_nonlinear_convection.ipynb>`_
 
-3. `1-D Burgers equation <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers.ipynb>`_
+3. `Burgers equation (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers.ipynb>`_
 
-4. 2-D Burgers equation
+4. Burgers equation (2D)
 
 III- MHD equilibria
 *******************
 
-1. Soloviev solutions
+1. Soloviev solutions (2D)
 
 IV- Navier-Stokes
 *****************
 
-1. 2-D Cavity Flow with Navier-Stokes
+1. Cavity Flow with Navier-Stokes (2D)
 
-2. 2-D CHannel Flow with Navier-Stokes
+2. Channel Flow with Navier-Stokes (2D)
 
 V- Compatible Finite Elements
 *****************************
 
-1. 1-D Maxwell Time Domain
+1. Maxwell Time Domain (1D)
 
-2. 2-D Stokes problem
+2. Stokes problem (2D)
 
-3. 2-D Maxwell Time Domain
+3. Maxwell Time Domain (2D)
 
-4. 2-D Maxwell Harmonic Domain
+4. Maxwell Harmonic Domain (2D)
 
 Appendix
 ********
