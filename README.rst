@@ -10,11 +10,11 @@ For the *Finite Element* notebooks, we will use the **Isogeometric Analysis** ap
 Chapter 0
 *********
 
-1. `Introduction to Finite Elements <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter0/introduction_fem.ipynb>`_
+1. `Introduction to B-Splines <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter0/01_introduction_bsplines.ipynb>`_
 
-2. `Introduction to B-Splines <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter0/introduction_bsplines.ipynb>`_
+2. `Introduction to Finite Elements <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter0/02_introduction_fem.ipynb>`_
 
-3. `Poisson solver <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter0/poisson.ipynb>`_
+3. `Poisson solver <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter0/03_poisson.ipynb>`_
 
 Chapter 1
 *********
