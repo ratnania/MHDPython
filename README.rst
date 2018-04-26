@@ -21,9 +21,9 @@ Introduction
 I- Linear problems
 ******************
 
-1. `Linear Convection (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection.ipynb>`_
+1. `Linear Convection (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_convection_1d.ipynb>`_
 
-2. `Diffusion equation (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion.ipynb>`_
+2. `Diffusion equation (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion_1d.ipynb>`_
 
 3. Linear Convection (2D)
 
@@ -34,9 +34,9 @@ II- Non linear problems
 
 1. Non linear elliptic equation (2D)
 
-2. `Non-linear Convection (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/03_nonlinear_convection.ipynb>`_
+2. `Non-linear Convection (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter2/02_convection_1d.ipynb>`_
 
-3. `Burgers equation (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers.ipynb>`_
+3. `Burgers equation (1D) <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter2/03_burgers_1d.ipynb>`_
 
 4. Burgers equation (2D)
 
