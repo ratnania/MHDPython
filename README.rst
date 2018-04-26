@@ -3,7 +3,7 @@ MHDPython
 
 Following the *12 steps to Navier-Stokes*, MHD-Python presents a sequence of Jupyter notebooks towards **MHD**.
 
-It is presented in different parts or *chapters*. When possible, both a *Finite Difference (FD)* and *Finite Element (FE)* will be provided, in this case the *Jupyter* filename will have a suffix *_fd* or *_fe*. 
+It is presented in different parts or *chapters*. In some cases, both a *Finite Difference (FD)* and *Finite Element (FE)* discretizations will be provided. 
 
 For the *Finite Element* notebooks, we will use the **Isogeometric Analysis** approach.
 
@@ -19,22 +19,13 @@ Chapter 0
 Chapter 1
 *********
 
-1. 1-D Linear Convection
+1. `1-D Linear Convection <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection.ipynb>`_
 
-- `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection_fd.ipynb>`_
+2. `1-D Diffusion equation <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion.ipynb>`_
 
-2. 1-D Diffusion equation
+3. `1-D Non-linear Convection <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/03_nonlinear_convection.ipynb>`_
 
-- `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion_fd.ipynb>`_
-
-3. 1-D Non-linear Convection
-
-- `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/03_nonlinear_convection_fd.ipynb>`_
-
-4. 1-D Burgers equation
-
-- `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers_fd.ipynb>`_
-
+4. `1-D Burgers equation <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers.ipynb>`_
 
 5. 2-D Linear Convection
 
