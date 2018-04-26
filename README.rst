@@ -21,19 +21,19 @@ Chapter 1
 
 1. 1-D Linear Convection
 
-  - `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection_fd.ipynb>`_
+- `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/01_linear_convection_fd.ipynb>`_
 
 2. 1-D Diffusion equation
 
-  - `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion_fd.ipynb>`_
+- `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/02_diffusion_fd.ipynb>`_
 
 3. 1-D Non-linear Convection
 
-  - `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/03_nonlinear_convection_fd.ipynb>`_
+- `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/03_nonlinear_convection_fd.ipynb>`_
 
 4. 1-D Burgers equation
 
-  - `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers_fd.ipynb>`_
+- `Finite Differences <http://nbviewer.jupyter.org/github/ratnania/MHDPython/blob/master/lessons/Chapter1/04_burgers_fd.ipynb>`_
 
 
 5. 2-D Linear Convection
